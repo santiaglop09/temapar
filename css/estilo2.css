@@ -1,0 +1,30 @@
+@charset "utf-8";
+.t1{
+	color:#FFF;
+	font-family:Georgia, "Times New Roman", Times, serif;
+}
+p1{
+	color:#CCC;
+	font-family:Georgia, "Times New Roman", Times, serif;
+}
+.t2{
+	color:#FFF;
+	font-family:Georgia, "Times New Roman", Times, serif;
+}
+p2{
+	color:#CCC;
+	margin-left:50px;
+	margin-right:50px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+}
+.t3{
+	color:#FFF;
+	font-family:Georgia, "Times New Roman", Times, serif;
+}
+p3{
+	color:#CCC;
+	font-family:Georgia, "Times New Roman", Times, serif;
+}
+body{background-color:#900;
+}
+
